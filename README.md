@@ -1,2 +1,4 @@
 # AnSerialPort
-Android serialport by JNI
+Android SerialPort by JNI
+
+

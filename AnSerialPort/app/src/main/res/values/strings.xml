@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SerialPort</string>
+    <string name="btn_open">Open</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_clear">Clear</string>
+    <string name="hex_send">Hex send </string>
+    <string name="hex_show">Hex show </string>
+</resources>
